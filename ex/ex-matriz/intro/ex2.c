@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int matriz[10][10], i, j;
+    int matriz[3][3], i, j;
 
     for ( i = 0; i < 3; i++)
     {
